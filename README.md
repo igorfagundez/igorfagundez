@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-fagundes-9776b01a4/)
 
 ![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfagundez&show_icons=true&theme=cobalt)
-[![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfagundez&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
