@@ -3,7 +3,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/igf.ts/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igor-fagundes-9776b01a4/)
 
-![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfagundez&show_icons=true&theme=cobalt)
 ![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=igorfagundez&show_icons=true&theme=radical)
 ## Tecnologias que eu uso no meu dia
 
